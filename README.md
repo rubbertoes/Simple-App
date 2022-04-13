@@ -9,6 +9,8 @@ Install Docker ✓
 Create Github repo on my account with READ.me ✓
 Clone repo locally ✓
 Install Nest.js ✓
+Install Nest.js cli ✓
+	Use command: npm i -g @nestjs/cli
 Initalize Nest.js app (new nest…)
 Push changes to remote repo 
 Create pull request and add Cwagne17
