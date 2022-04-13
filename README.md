@@ -7,8 +7,8 @@ To Do:
 Install Node.js into visual studio ✓
 Install Docker ✓ 
 Create Github repo on my account with READ.me ✓
-Clone repo locally 
+Clone repo locally ✓
+Install Nest.js ✓
 Initalize Nest.js app (new nest…)
-	install Nest cli
 Push changes to remote repo 
 Create pull request and add Cwagne17
